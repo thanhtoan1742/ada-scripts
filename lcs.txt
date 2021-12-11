@@ -1,0 +1,15 @@
+x, y, y, x, z, y, x, x, x, z, y, x, z
+y, x, y, z, z, x, x, y, x, z, y
+
+x, y, x, x, z, x, y, z, x, y
+z, x, z, y, y, z, x, x, y, x, x, z
+
+B, C, D, A, D, D, A, B
+C, A, D, B, A, A
+
+A, B, D, C, E, D, F, A, D, C
+A, C, E, B, C, D, F, G
+
+
+A, B, D, C, E, D, F, A, D, C
+A, C, E, B, C, D, F, G
